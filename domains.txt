@@ -877,6 +877,7 @@ diccord-free.com
 diccord.gift
 diccord.ru
 diccord.xyz
+diccordgift.xyz
 diccordmedal.xyz
 diccrd.com
 diccsord-drop.gq
@@ -1288,6 +1289,7 @@ discard.gg
 discard.gift
 discard.xyz
 discardapp.fun
+discardgft.cc
 discardgift.xyz
 discards.xyz
 discbrd.com
@@ -2645,6 +2647,7 @@ discord.hypesquadteam.repl.co
 discord.hypesquadteamus.repl.co
 discord.hypesquadus.repl.co
 discord.hypesquadusen.repl.co
+discord.hypessquadevent.repl.co
 discord.in
 discord.istanbul
 discord.join-hypesquad-events.repl.co
@@ -2843,6 +2846,7 @@ discordbox.xyz
 discordbr.com
 discordbrl.com
 discordbug.com
+discordbughunters.com
 discordbugs.com
 discordc-nitro.com
 discordc.gift
@@ -2952,6 +2956,7 @@ discordform.com
 discordforms-moderator.com
 discordforms.com
 discordformulary.com
+discordformularymoderator.com
 discordforumu.com
 discordfree.club
 discordfree.com
@@ -3754,6 +3759,7 @@ discorsd.ru
 discorsdnitros.com
 discorsjway.net.ru
 discorsjway.org.ru
+discorsjway.xyz
 discorsjwayh.xyz
 discorsjways.net.ru
 discorsjways.org.ru
@@ -4904,6 +4910,7 @@ ds-present.gq
 ds-promo.site
 ds-start.com
 dsacordgift.xyz
+dsacordgifts.xyz
 dsaocrdgift.xyz
 dsc-drop.gq
 dsc-gift.com
@@ -4970,6 +4977,7 @@ dsscordgft.xyz
 dsscordgift.cc
 dsscordgift.xyz
 dsscordglft.xyz
+dsscordpromotion.xyz
 dsscrrdgift.xyz
 dssscordglft.xyz
 dstools-gift.gq
@@ -5349,6 +5357,7 @@ forms-hypesquad.com
 forms-hypesquadevent-join.com
 forms-hypeteam.com
 forms-hypeteams.com
+forms-moderation-academy.com
 forms-moderations.com
 forms-moderator-academy-tester.com
 forms-moderator-academy.com
@@ -5428,6 +5437,7 @@ formulary-hypeteam.com
 formulary-invite.dev
 formulary-join.com
 formulary-mod.com
+formulary-moderating.com
 formulary-moderation-school.com
 formulary-moderator-events.com
 formulary-moderator-mods.com
@@ -5458,6 +5468,7 @@ formulary-teams-hype.com
 formulary-test-moderator.com
 formulary-testers-mod.com
 formulary-to-connect-moderetors.com
+formulary-to-hypesquad.com
 formulary-to-hypesquadevents.com
 formulary-to-the-hypesquad.com
 formulary.dev
@@ -6365,6 +6376,7 @@ hypessquad-discord-signup.com
 hypessquad-events.com
 hypessquad-signup.com
 hypeteam-2022.com
+hypeteam-form.com
 hypeteam-forms.com
 hypeteam-invite.com
 hypeteam-registred.com
@@ -6604,6 +6616,7 @@ join-hypesquad-moderators.com
 join-hypesquad-official.com
 join-hypesquad-premium.com
 join-hypesquad-program.com
+join-hypesquad-programs.com
 join-hypesquad-test.gq
 join-hypesquad-tester.com
 join-hypesquad-trial.com
@@ -6693,6 +6706,7 @@ join-the-new-hypesquad-events.com
 join-the-new-hypesquad.com
 join-the-new-hypesquadevent.com
 join-to-hypesquad-forms.com
+join-to-moderator.com
 join-trial-hypesquad-moderator.com
 join.academypartner.repl.co
 joinbedevelopers.com
@@ -7064,6 +7078,7 @@ moderator-fomulary.today
 moderator-form-discord.com
 moderator-form-participate.com
 moderator-form.com
+moderator-formdiscord.com
 moderator-forms-academy.com
 moderator-forms-discord.com
 moderator-forms-now.com
@@ -7136,6 +7151,7 @@ moderatoracademyinvite.com
 moderatoracademyregister.com
 moderatoracademytesters.com
 moderatorapplications.com
+moderatorcollege.com
 moderatordiscord-forms.com
 moderatordiscord-renew.com
 moderatordiscord.com
@@ -8224,6 +8240,7 @@ rl-performance.com
 rl-promos.com
 rl-purple.com
 rlptide.net.ru
+rnoblox.com
 ro-blox.tk
 robfan.work
 robiox-web.com
@@ -8964,6 +8981,7 @@ steam-announcements1.xyz
 steam-auth.com
 steam-auth.ru
 steam-cammuneti.com
+steam-center.xyz
 steam-communiity.ru
 steam-communitv.ru
 steam-community.net.ru
@@ -9180,6 +9198,7 @@ steamcconmmuunity.co
 steamcconmuunity.co
 steamcconuunity.co
 steamcenter.xyz
+steamchanges.xyz
 steamchinacsgo.ru
 steamcmmunuti.ru
 steamcmunity.com
@@ -10418,6 +10437,7 @@ steamcormmmunity.com
 steamcormmunity.com
 steamcormmunity.ru
 steamcormmunity.ru.com
+steamcormmuntiy.com
 steamcormmuuity.ru
 steamcormmynity.ru.com
 steamcormrunity.com
@@ -10851,6 +10871,7 @@ steamsource-game.xyz
 steamsource-trade.xyz
 steamsourcecommunity.xyz
 steamsourcecommunity1.xyz
+steamsourcegame.xyz
 steamsourcetrade.xyz
 steamspecial.com
 steamstore.map2.ssl.hwcdn.net
